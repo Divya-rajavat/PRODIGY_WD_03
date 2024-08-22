@@ -1,0 +1,9 @@
+/* src/components/Square.css */
+.square.x {
+    color: #ff5733; /* Color for 'X' */
+  }
+  
+  .square.o {
+    color: #33c1ff; /* Color for 'O' */
+  }
+  
